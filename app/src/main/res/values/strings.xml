@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="comprar">Comprar</string>
+    <string name="las_mejores_hamburguesas">Las mejores Hamburguesas!</string>
+    <string name="description">Maecenas quis dolor sagittis, aliquam erat eu, lobortis velit. Quisque consequat turpis sit amet ipsum laoreet tempus. In imperdiet elit quam, a mollis sapien porttitor in. Pellentesque quis dapibus ex. Duis tincidunt rutrum neque sit amet pretium. Vivamus ut aliquet nisl, vehicula porta mi. Nam eget diam suscipit, vestibulum urna at, tempor turpis. Fusce pulvinar diam at sagittis convallis. Praesent nulla lacus, eleifend sed blandit non, vehicula vitae metus.</string>
+    <string name="_200">$200</string>
+    <string name="compra_exitosa">Compra exitosa</string>
+    <string name="textoCompra">Tu hamburguesa doble con queso ha sido comprada con éxito</string>
+
+</resources>
