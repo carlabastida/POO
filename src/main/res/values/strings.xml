@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LayoutApp</string>
+    <string name="welcome_juan">WELCOME JUAN</string>
+    <string name="our_services">Our Services</string>
+    <string name="book">BOOK</string>
+    <string name="hospital">Hospital</string>
+    <string name="ambulancia">Ambulancia</string>
+    <string name="Consultas">Appointments</string>
+    <string name="toy_story">TOY STORY</string>
+    <string name="juan_18_2010">Juan 18 2010</string>
+    <string name="rent_from_24_99">Rent From $24.99</string>
+    <string name="buy_from_44_99">Buy From $44.99</string>
+    <string name="reseña">Toy story fue una revolución para el mundo del cine debido a que fue la primer película animada por computadora en 3D. La película marcó la infancia de muchos.Tenía personajes carismáticos, buena trama, te deja una moraleja sobre no ser envidioso con los demás, tenía un buen villano, y la animación fue una revolución para su época. </string>
+</resources>
